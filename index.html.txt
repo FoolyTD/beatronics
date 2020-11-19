@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Beatronics</title>
+    <link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<h1>Beatronics</h1>
+	<hr>
+	<h2>The Pride and Joy of Houston, Texas</h2>
+</body>
+
+</html>
